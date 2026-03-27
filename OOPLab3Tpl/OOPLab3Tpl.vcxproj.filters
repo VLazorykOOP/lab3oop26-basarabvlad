@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OOPLab3Tpl.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="Lab3Example.cpp">
+    <ClCompile Include="mylab.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
